@@ -15,14 +15,16 @@
     padding-bottom:60px; 
 
 }
-.right-nav{float: right;}
+.navbar-nav{
+    
+}
+
 .navbar-nav li a{
     font-size: 16px;
     letter-spacing: 2px;
     position: relative;
     color: #000000;
     line-height: 24px;
-    
 } 
 
 .navbar-nav li a:before{
