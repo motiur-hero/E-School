@@ -55,8 +55,8 @@
     }
     
 }
-.nav-link:last-child:hover:before{
-    width: 0%;
+ul li:last-child{
+    color:#f7f4f3;
 }
 
 
@@ -64,6 +64,7 @@
     border: 1px solid #f0fff0;
     border-radius: 25px;
     padding: 0 5px;
+    
 }
 
 
