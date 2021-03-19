@@ -52,8 +52,8 @@
     }
     .navbar-nav li a:hover:before{
         width: 0%;
-    
     }
+    .navbar-nav li a :last-child(width: 0;)
     
 }
 .signin-btn{
