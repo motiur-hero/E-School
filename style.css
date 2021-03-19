@@ -16,10 +16,6 @@
     
 
 }
-.right{
-    float: right; 
-    
-}
 
 .navbar-nav li a{
     font-size: 16px;
@@ -55,8 +51,8 @@
     }
     
 }
-ul li:last-child{
-    color:#f7f4f3;
+  a:last-child{
+    color:#fff;
 }
 
 
